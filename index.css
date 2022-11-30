@@ -1,0 +1,64 @@
+table {
+  border-collapse: collapse;
+  margin: 8px;
+}
+
+body {
+  font-family: "Kanit", sans-serif;
+  font-weight: 100;
+}
+
+td,
+th {
+  border: 1px solid;
+  padding: 10px;
+  width: 10%;
+}
+.headtable {
+  background-color: lightblue;
+}
+
+.container {
+  margin: 8px;
+  padding: 8px;
+  border: 1px solid;
+  border-radius: 2%;
+  width: 25%;
+}
+
+div {
+  padding: 2px;
+}
+
+input {
+  width: 50%;
+}
+
+.icon {
+  font-size: 2.3rem;
+}
+
+.fa-brands {
+  padding: 4px;
+  text-shadow: 4px 4px 8px silver;
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
+
+/* .container{
+    display: grid;
+    grid-template-areas:
+    'content1' 1fr
+    'content2' 1fr
+    /2fr
+}
+
+.item-1{
+    grid-area: 'content1';
+}
+
+.item-2{
+    grid-area: 'content2';
+} */
